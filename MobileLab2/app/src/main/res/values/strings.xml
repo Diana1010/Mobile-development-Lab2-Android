@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Книжный магазин</string>
+    <string name="basket_name">Корзина</string>
+
+    <string name="amount">В наличии: </string>
+    <string name="chosen_amount">Выбрано: </string>
+
+    <string name="not_full_info_string">Пожалуйста, заполните все поля.</string>
+    <string name="something_went_wrong">Ошибка</string>
+
+
+    <!--ViewPager-->
+    <string name="rows">Ряды</string>
+    <string name="columns">Колонки</string>
+
+    <!--Busket-->
+    <string name="message_add_zero_in_basket">Выберите количество книг.</string>
+    <string name="search">Поиск</string>
+    <string name="add">Добавить</string>
+    <string name="item_added">Книга добавлена в корзину</string>
+    <string name="basket">Корзина</string>
+    <string name="buy">Купить</string>
+    <string name="clear_basket">Очистить корзину</string>
+
+    <!--Layout-->
+    <string name="title">Название книги</string>
+    <string name="details">Описание</string>
+    <string name="create_product">Добавить книгу</string>
+    <string name="add_to_basket">Добавить книгу в корзину</string>
+
+
+</resources>
